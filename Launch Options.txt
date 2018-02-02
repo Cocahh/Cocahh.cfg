@@ -1,2 +1,2 @@
-#Launch Options
+# Launch Options
 +mat_queue_mode -1 -novid -tickrate 128 -refresh 144 +exec Cocahh.cfg -language cocahh
